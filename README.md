@@ -9,7 +9,19 @@ Je me présente, je m'appelle **Anthony**. Je suis actuellement en formation en 
 
 # Mes compétences :
 
+-Html5
+-Css3
+-JavaScript
+-JQuery
+-Angular
+-Wordpress
+-Php7
 
+# Mes compétences à venir :
+
+-Symphony
+-Github
+-Git
 <!--
 **anthony-mho/anthony-mho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
