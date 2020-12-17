@@ -2,6 +2,8 @@
 
 Je me présente, je m'appelle **Anthony**. Je suis actuellement en formation en web dévellopement auprès de WebForce3, et dans le cadre de cette formation je suis à la recherche d'une alternance pour valider mon futur diplôme. 
 
+
+[Linkedin](https://www.linkedin.com/in/anthony-merchadou-b3382a192/)
 <!--
 **anthony-mho/anthony-mho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
