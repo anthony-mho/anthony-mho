@@ -4,6 +4,11 @@ Je me présente, je m'appelle **Anthony**. Je suis actuellement en formation en 
 
 
 [Linkedin](https://www.linkedin.com/in/anthony-merchadou-b3382a192/)
+[Mon CV](CV.pdf)
+
+# Mes compétences :
+
+
 <!--
 **anthony-mho/anthony-mho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
