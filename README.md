@@ -4,6 +4,7 @@ Je me présente, je m'appelle **Anthony**. Je suis actuellement en formation en 
 
 
 [Linkedin](https://www.linkedin.com/in/anthony-merchadou-b3382a192/)
+
 [Mon CV](CV.pdf)
 
 # Mes compétences :
